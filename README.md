@@ -14,13 +14,18 @@ The Tic Tac Toe is a great way to pass your free time whether you're standing in
 # App Screens
 
 
-![Screenshot_20210819_010247 2](https://user-images.githubusercontent.com/62107887/130690605-22bf0fa7-9d50-455a-ba8a-02833e571149.jpg)
+![Screenshot_20210819_010247 2](https://github.com/Saurabhh07/SyncIntern-Task-1---TicTacToe-Game/blob/master/screenshots/Screenshot_2023-01-25-05-03-56-734_com.techsoldev.tictactoegame.jpg)
+![Screenshot_20210819_010333 2](https://github.com/Saurabhh07/SyncIntern-Task-1---TicTacToe-Game/blob/master/screenshots/Screenshot_2023-01-25-05-04-13-742_com.techsoldev.tictactoegame.jpg)
+![Screenshot_20210819_010333 2](https://github.com/Saurabhh07/SyncIntern-Task-1---TicTacToe-Game/blob/master/screenshots/Screenshot_2023-01-25-05-04-23-304_com.techsoldev.tictactoegame.jpg)
+![Screenshot_20210819_010333 2](https://github.com/Saurabhh07/SyncIntern-Task-1---TicTacToe-Game/blob/master/screenshots/Screenshot_2023-01-25-05-04-28-877_com.techsoldev.tictactoegame.jpg)
+![Screenshot_20210819_010333 2](https://github.com/Saurabhh07/SyncIntern-Task-1---TicTacToe-Game/blob/master/screenshots/Screenshot_2023-01-25-05-04-51-505_com.techsoldev.tictactoegame.jpg)
+![Screenshot_20210819_010333 2](https://github.com/Saurabhh07/SyncIntern-Task-1---TicTacToe-Game/blob/master/screenshots/Screenshot_2023-01-25-05-05-04-054_com.techsoldev.tictactoegame.jpg)
+![Screenshot_20210819_010333 2](https://github.com/Saurabhh07/SyncIntern-Task-1---TicTacToe-Game/blob/master/screenshots/Screenshot_2023-01-25-05-05-18-705_com.techsoldev.tictactoegame.jpg)
+![Screenshot_20210819_010333 2](https://github.com/Saurabhh07/SyncIntern-Task-1---TicTacToe-Game/blob/master/screenshots/Screenshot_2023-01-25-05-05-42-223_com.techsoldev.tictactoegame.jpg)
+![Screenshot_20210819_010333 2](https://github.com/Saurabhh07/SyncIntern-Task-1---TicTacToe-Game/blob/master/screenshots/Screenshot_2023-01-25-05-05-52-574_com.techsoldev.tictactoegame.jpg)
+![Screenshot_20210819_010333 2](https://github.com/Saurabhh07/SyncIntern-Task-1---TicTacToe-Game/blob/master/screenshots/Screenshot_2023-01-25-05-05-57-700_com.techsoldev.tictactoegame.jpg)
+![Screenshot_20210819_010333 2](https://github.com/Saurabhh07/SyncIntern-Task-1---TicTacToe-Game/blob/master/screenshots/Screenshot_2023-01-25-05-06-11-291_com.techsoldev.tictactoegame.jpg)
 
-![Screenshot_20210819_010333 2](https://user-images.githubusercontent.com/62107887/130690643-a23de642-a3b2-428a-879a-163ddcded5e2.jpg)
-
-![Screenshot_20210819_010435 2](https://user-images.githubusercontent.com/62107887/130690652-15b50c29-ccec-44be-9819-c3e88641ae52.jpg)
-
-![Screenshot_20210819_010408](https://user-images.githubusercontent.com/62107887/130690657-6c4265c4-d08f-4314-884b-c8509a6032cf.jpg)
 
 
 
