@@ -8,7 +8,7 @@ The Tic Tac Toe is a great way to pass your free time whether you're standing in
 
 
 # App Video
-![Screenshot_20210819_010247 2](https://github.com/Saurabhh07/SyncIntern-Task-1---TicTacToe-Game/blob/master/video/Game%20Video.mp4)
+https://github.com/Saurabhh07/SyncIntern-Task-1---TicTacToe-Game/blob/master/video/Game%20Video.mp4
 
 
 
