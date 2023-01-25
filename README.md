@@ -7,23 +7,45 @@ The Tic Tac Toe is a great way to pass your free time whether you're standing in
 
 
 
+# App Video
+![Screenshot_20210819_010247 2](https://github.com/Saurabhh07/SyncIntern-Task-1---TicTacToe-Game/blob/master/screenshots/Screenshot_2023-01-25-05-03-56-734_com.techsoldev.tictactoegame.jpg)
 
 
 
 
 # App Screens
 
-
+1) TicTacToe Game Dashboard
 ![Screenshot_20210819_010247 2](https://github.com/Saurabhh07/SyncIntern-Task-1---TicTacToe-Game/blob/master/screenshots/Screenshot_2023-01-25-05-03-56-734_com.techsoldev.tictactoegame.jpg)
+
+2) Player One Name
 ![Screenshot_20210819_010333 2](https://github.com/Saurabhh07/SyncIntern-Task-1---TicTacToe-Game/blob/master/screenshots/Screenshot_2023-01-25-05-04-13-742_com.techsoldev.tictactoegame.jpg)
+
+3) Player Two Name
 ![Screenshot_20210819_010333 2](https://github.com/Saurabhh07/SyncIntern-Task-1---TicTacToe-Game/blob/master/screenshots/Screenshot_2023-01-25-05-04-23-304_com.techsoldev.tictactoegame.jpg)
+
+4) Pick Your Side
 ![Screenshot_20210819_010333 2](https://github.com/Saurabhh07/SyncIntern-Task-1---TicTacToe-Game/blob/master/screenshots/Screenshot_2023-01-25-05-04-28-877_com.techsoldev.tictactoegame.jpg)
+
+5) Player X Won
 ![Screenshot_20210819_010333 2](https://github.com/Saurabhh07/SyncIntern-Task-1---TicTacToe-Game/blob/master/screenshots/Screenshot_2023-01-25-05-04-51-505_com.techsoldev.tictactoegame.jpg)
+
+6) Match Up
 ![Screenshot_20210819_010333 2](https://github.com/Saurabhh07/SyncIntern-Task-1---TicTacToe-Game/blob/master/screenshots/Screenshot_2023-01-25-05-05-04-054_com.techsoldev.tictactoegame.jpg)
+
+7) Player O Won
 ![Screenshot_20210819_010333 2](https://github.com/Saurabhh07/SyncIntern-Task-1---TicTacToe-Game/blob/master/screenshots/Screenshot_2023-01-25-05-05-18-705_com.techsoldev.tictactoegame.jpg)
+
+8) Match Draw
 ![Screenshot_20210819_010333 2](https://github.com/Saurabhh07/SyncIntern-Task-1---TicTacToe-Game/blob/master/screenshots/Screenshot_2023-01-25-05-05-42-223_com.techsoldev.tictactoegame.jpg)
+
+9) Quit In Between Match
 ![Screenshot_20210819_010333 2](https://github.com/Saurabhh07/SyncIntern-Task-1---TicTacToe-Game/blob/master/screenshots/Screenshot_2023-01-25-05-05-52-574_com.techsoldev.tictactoegame.jpg)
+
+10) Developer Details
 ![Screenshot_20210819_010333 2](https://github.com/Saurabhh07/SyncIntern-Task-1---TicTacToe-Game/blob/master/screenshots/Screenshot_2023-01-25-05-05-57-700_com.techsoldev.tictactoegame.jpg)
+
+11) TicTacToe Settings
 ![Screenshot_20210819_010333 2](https://github.com/Saurabhh07/SyncIntern-Task-1---TicTacToe-Game/blob/master/screenshots/Screenshot_2023-01-25-05-06-11-291_com.techsoldev.tictactoegame.jpg)
 
 
